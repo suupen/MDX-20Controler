@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Sunday, January 13, 2019
+Project Path:       Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler.prj
+Design Path:        Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto.pcb
+Design Title:       
+Created:            2019/01/05 9:02:20
+Last Saved:         2019/01/13 8:20:03
+Editing Time:       1742 min
+Units:              mm (precision 2)
+
+
+End Of Report.

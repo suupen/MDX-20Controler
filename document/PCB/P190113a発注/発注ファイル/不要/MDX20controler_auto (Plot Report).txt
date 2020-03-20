@@ -1,0 +1,279 @@
+Plot Report
+-----------
+
+Report Written:     Sunday, January 13, 2019
+Project Path:       Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler.prj
+Design Path:        Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto.pcb
+Design Title:       
+Created:            2019/01/05 9:02:20
+Last Saved:         2019/01/13 8:34:04
+Editing Time:       1759 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 11.81
+    D12    Round 3.94
+    D13    Round 6.00
+    D14    Round 10.00
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -------------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D15    Round 157.48
+    D16    Rectangle 22.00 X 86.00
+    D17    Round 61.42
+    D18    Round 180.12
+    D19    Rectangle 55.12 X 62.99
+    D70    Rectangle 39.37 X 42.91  Rotation 90
+    D71    Rectangle 39.37 X 42.91
+    D20    Rounded Rectangle 60.00 X 110.00 X 0.00
+    D21    Oval 60.00 X 110.00
+    D22    Round 137.80
+    D23    Round 56.00
+    D24    Round 15.00
+    D25    Round 32.00
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -------------------------------------------------
+    D26    Round 167.48
+    D27    Rectangle 32.00 X 96.00
+    D28    Round 72.99
+    D29    Round 53.31
+    D72    Round 71.42
+    D73    Round 190.12
+    D74    Rectangle 65.12 X 72.99
+    D75    Rectangle 49.37 X 52.91  Rotation 90
+    D76    Rectangle 49.37 X 52.91
+    D77    Rounded Rectangle 60.00 X 110.00 X 0.00
+    D78    Oval 70.00 X 120.00
+    D79    Round 147.80
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D80    Rectangle 18.00 X 82.00
+    D81    Rectangle 51.12 X 58.99
+    D82    Rectangle 35.37 X 38.91  Rotation 90
+    D83    Rectangle 35.37 X 38.91
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 3.94
+    D84    Round 1.97
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    --------------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D15    Round 157.48
+    D17    Round 61.42
+    D18    Round 180.12
+    D70    Rectangle 39.37 X 42.91  Rotation 90
+    D71    Rectangle 39.37 X 42.91
+    D20    Rounded Rectangle 60.00 X 110.00 X 0.00
+    D21    Oval 60.00 X 110.00
+    D22    Round 137.80
+    D23    Round 56.00
+    D24    Round 15.00
+    D25    Round 32.00
+    D95    Rectangle 39.37 X 59.06
+    D96    Rectangle 27.56 X 59.06
+    D97    Rectangle 59.06 X 110.24
+    D98    Rounded Rectangle 35.00 X 260.00 X 15.00
+    D99    Rectangle 35.00 X 260.00
+    D100   Square 63.00
+    D101   Rectangle 45.28 X 78.74  Rotation 90
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    --------------------------------------------------
+    D26    Round 167.48
+    D28    Round 72.99
+    D29    Round 53.31
+    D72    Round 71.42
+    D73    Round 190.12
+    D75    Rectangle 49.37 X 52.91  Rotation 90
+    D76    Rectangle 49.37 X 52.91
+    D77    Rounded Rectangle 60.00 X 110.00 X 0.00
+    D78    Oval 70.00 X 120.00
+    D79    Round 147.80
+    D102   Rectangle 49.37 X 69.06
+    D103   Rectangle 37.56 X 69.06
+    D104   Rectangle 69.06 X 120.24
+    D105   Rounded Rectangle 35.00 X 260.00 X 15.00
+    D106   Rectangle 45.00 X 270.00
+    D107   Square 73.00
+    D108   Rectangle 55.28 X 88.74  Rotation 90
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    --------------------------------------------------
+    D82    Rectangle 35.37 X 38.91  Rotation 90
+    D83    Rectangle 35.37 X 38.91
+    D109   Rectangle 35.37 X 55.06
+    D110   Rectangle 23.56 X 55.06
+    D111   Rectangle 55.06 X 106.24
+    D112   Rounded Rectangle 35.00 X 260.00 X 15.00
+    D113   Rectangle 31.00 X 256.00
+    D114   Square 59.00
+    D115   Rectangle 41.28 X 74.74  Rotation 90
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 11.81
+    D12    Round 3.94
+    D14    Round 10.00
+    D116   Round 7.87
+
+NC Drill Output
+===============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.01600 inches 24    G
+    T002  0.03200 inches 9     E
+    T003  0.04094 inches 9     C
+    T004  0.04331 inches 1     B
+    T005  0.05906 inches 3     H
+    T006  0.06299 inches 1     A
+    T007  0.11811 inches 4     F
+    T008  0.12008 inches 2     D
+    --------------------------------------
+    Total                53
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.

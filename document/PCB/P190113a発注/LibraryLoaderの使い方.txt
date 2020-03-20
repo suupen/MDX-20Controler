@@ -1,0 +1,3 @@
+Library Loaderを開いておいて、ダウンロードしたZipファイルを以下のフォルダにコピーすると自動でLibraryが登録される。
+（本来は、ダウンロードの保管先が下記になるらしいが、今の環境ではうまく動かないようだ。
+C:\Users\Public\Documents\DesignSpark PCB 8.1\Library\User

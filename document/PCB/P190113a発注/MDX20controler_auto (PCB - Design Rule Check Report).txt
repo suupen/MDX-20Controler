@@ -1,0 +1,74 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Sunday, January 13, 2019
+Project Path:       Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler.prj
+Design Path:        Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto.pcb
+Design Title:       
+Created:            2019/01/05 9:02:20
+Last Saved:         2019/01/13 8:31:54
+Editing Time:       1753 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Pad to Pad Error (P-P) between (488.26 475.93) and (488.55 475.93) on Layer "[Bottom]".
+    Error between Component Pad J1.11 and Component Pad J1.12 (Net 'VSS'), Gap is 0.29 needs to be 0.30.
+Annular ring too small at (466.15,473.88)
+    Size is 0.00 should be 0.15.
+Annular ring too small at (487.15,473.88)
+    Size is 0.00 should be 0.15.
+Component to Component error (Cm-Cm) at (525.89 537.88) on layer "[Top]".
+    U2 - J2, Gap is 0.00.
+Component to Board error (Cm-B) at (520.00 546.00) on layer "[Top]".
+    J2.
+
+Number of errors found : 5
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

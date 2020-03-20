@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, January 13, 2019
+Project Path:       Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler.prj
+Design Path:        Z:\user_dat\work\181224_ESP32_MDX-20_controler\PCB\MDX20controler_auto.pcb
+Design Title:       
+Created:            2019/01/05 9:02:20
+Last Saved:         2019/01/13 7:55:37
+Editing Time:       1719 min
+Units:              mm (precision 2)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.
